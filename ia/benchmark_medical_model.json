@@ -1,0 +1,55 @@
+{
+  "base_model": {
+    "detailed": [
+      {
+        "prompt": "What are common symptoms of the flu?",
+        "latency_s": 22.62,
+        "tokens_generated": 150,
+        "tokens_per_second": 6.63
+      },
+      {
+        "prompt": "Can you explain what high blood pressure means?",
+        "latency_s": 11.55,
+        "tokens_generated": 150,
+        "tokens_per_second": 12.98
+      },
+      {
+        "prompt": "What's the difference between a cold and an allergy?",
+        "latency_s": 11.48,
+        "tokens_generated": 150,
+        "tokens_per_second": 13.07
+      }
+    ],
+    "summary": {
+      "latence_moyenne_s": 15.22,
+      "tokens_par_seconde_moyen": 10.89
+    }
+  },
+  "finetuned_model": {
+    "detailed": [
+      {
+        "prompt": "What are common symptoms of the flu?",
+        "latency_s": 14.99,
+        "tokens_generated": 150,
+        "tokens_per_second": 10.01
+      },
+      {
+        "prompt": "Can you explain what high blood pressure means?",
+        "latency_s": 14.63,
+        "tokens_generated": 150,
+        "tokens_per_second": 10.25
+      },
+      {
+        "prompt": "What's the difference between a cold and an allergy?",
+        "latency_s": 14.88,
+        "tokens_generated": 150,
+        "tokens_per_second": 10.08
+      }
+    ],
+    "summary": {
+      "latence_moyenne_s": 14.83,
+      "tokens_par_seconde_moyen": 10.11
+    }
+  },
+  "overhead_latency_pct": -2.6
+}
