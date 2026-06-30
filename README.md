@@ -1,6 +1,6 @@
 # HackathonIA — Groupe 22
 
-Rendu complet du hackathon, organisé par pôle.
+Rendu complet du hackathon, organisé par Ynov.
 
 ## Structure du dépôt
 
